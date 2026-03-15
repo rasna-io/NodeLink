@@ -1,6 +1,6 @@
 [submodule "QtQuickStream"]
 	path = QtQuickStream
-	url = https://github.com/Roniasoft/QtQuickStream.git
+	url = https://github.com/rasna-io/QtQuickStream.git
 [submodule "ColorPicker"]
 	path = ColorPicker
-	url = https://github.com/Roniasoft/ColorPicker.git
+	url = https://github.com/rasna-io/ColorPicker.git
