@@ -59,7 +59,7 @@ Open a terminal/command prompt and run:
 
 ```bash
 # Clone with submodules (recommended)
-git clone --recursive https://github.com/Roniasoft/NodeLink.git
+git clone --recursive https://github.com/rasna-io/NodeLink.git
 cd NodeLink
 ```
 
@@ -694,7 +694,7 @@ If you encounter issues not covered here:
 
 1. **Check the Examples**: Look at working examples in `examples/` directory
 2. **Read Documentation**: See [Custom Node Creation Guide](../AdvancedTopics/CustomNodeCreation.md)
-3. **GitHub Issues**: Report bugs or ask questions on [GitHub Issues](https://github.com/Roniasoft/NodeLink/issues)
+3. **GitHub Issues**: Report bugs or ask questions on [GitHub Issues](https://github.com/rasna-io/NodeLink/issues)
 4. **Community**: Check for community discussions and solutions
 
 ---

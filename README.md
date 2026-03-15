@@ -69,7 +69,7 @@ Any suggestions are welcome!
 
 Calculator Example
 ==================
-![calculator_example](https://github.com/Roniasoft/NodeLink/assets/53909162/db16c995-082a-46d7-a1f0-4e5d16ebdf7d)
+![calculator_example](https://github.com/rasna-io/NodeLink/assets/53909162/db16c995-082a-46d7-a1f0-4e5d16ebdf7d)
 
 Chatbot Example
 ==================
@@ -106,7 +106,7 @@ Building
 ### 1. Clone repository (including submodules)
 Recommended (single step):
 ```bash
-git clone --recursive git@github.com:Roniasoft/NodeLink.git
+git clone --recursive git@github.com:rasna-io/NodeLink.git
 cd NodeLink
 ```
 If you already cloned without --recursive:
@@ -169,17 +169,17 @@ Contribution
 Citing
 ======
 
-RONIA AB, NodeLink, (2023), GitHub repository, https://github.com/Roniasoft/NodeLink
+RASNA, NodeLink, (2023), GitHub repository, https://github.com/rasna-io/NodeLink
 
 BibTeX::
 
-    @misc{RONIA AB,
-      author = {RONIA AB},
+    @misc{RASNA,
+      author = {RASNA},
       title = {NodeLink. Qt Quick Library},
       year = {2023},
       publisher = {GitHub},
       journal = {GitHub repository},
-      howpublished = {\url{https://github.com/Roniasoft/NodeLink}},
+      howpublished = {\url{https://github.com/rasna-io/NodeLink}},
       commit = {6ba9c66cdbc8e6d00fd4a8c6b3bde05c616cfa6a}
     }
 
@@ -197,7 +197,7 @@ You are free to:
 
 When redistributing or using this library, you must:
 - Include a copy of the [LICENSE](LICENSE) file.
-- Provide proper attribution (e.g., link to this repository or mention "NodeLink by RONIA").
+- Provide proper attribution (e.g., link to this repository or mention "NodeLink by RASNA").
 
 For the full terms and conditions, see the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 

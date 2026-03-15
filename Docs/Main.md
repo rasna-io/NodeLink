@@ -3,7 +3,7 @@
 ## Introduction
 NodeLink is a qml node editor library that can be used for a wide range of applications. This library allows for the visualization and manipulation of complex graphs while also providing the flexibility for customization and integration with other software.
 
-[![Made by ROMINA](https://img.shields.io/badge/Made%20by-ROMINA-blue)](https://github.com/Roniasoft/NodeLink)
+[![Made by ROMINA](https://img.shields.io/badge/Made%20by-ROMINA-blue)](https://github.com/rasna-io/NodeLink)
 ![Version](https://img.shields.io/badge/Version-0.9.0-blue)
 
 ### Usage
