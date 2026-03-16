@@ -41,7 +41,7 @@ Dependencies
   - `QtQuick.Layouts`
 
 
-Current State (v0.9.0)
+Current State (v1.1.0)
 ==================
 
 The main features are as follows:
